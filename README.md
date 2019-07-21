@@ -13,5 +13,5 @@ brew install cookie
 
 ```
 brew update
-brew upgrade periphery
+brew upgrade cookie
 ```
